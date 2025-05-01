@@ -118,5 +118,5 @@ Google Cloud. (2024). Vertex AI and Gemini. https://cloud.google.com/vertex-ai
 Google for Developers. (2025). Gemini Code Assist. https://developers.google.com/gemini-code-assist/docs
 
 ---
-
+*"Actualizar README con contenido completo".*
 *Este repositorio es mantenido por [@luispizarrom](https://github.com/luispizarrom) y no representa un recurso oficial de Google.*
